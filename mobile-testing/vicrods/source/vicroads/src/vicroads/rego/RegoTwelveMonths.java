@@ -95,6 +95,9 @@ public static void main(String[] args) throws MalformedURLException, Interrupted
 				total = driver.findElement(By.xpath("//*[@id='aside']/div/div/div[2]/div[13]/div[2]/div[3]/div[2]/ul/li[5]/span")).getText();
 				System.out.println("Total--------->" + total);
 				Thread.sleep(2000);
+				Thread.sleep(2000);
+				Thread.sleep(2000);
+				Thread.sleep(2000);
 				
 			}
 			
